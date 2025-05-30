@@ -3,7 +3,7 @@ module github.com/cyg-pd/go-watermillx-driver-kafka
 go 1.24.3
 
 require (
-	github.com/IBM/sarama v1.45.1
+	github.com/IBM/sarama v1.45.2
 	github.com/ThreeDotsLabs/watermill v1.4.6
 	github.com/ThreeDotsLabs/watermill-kafka/v3 v3.0.6
 	github.com/cyg-pd/go-watermillx v0.0.2
@@ -40,5 +40,4 @@ require (
 	go.opentelemetry.io/otel/trace v1.36.0 // indirect
 	golang.org/x/crypto v0.38.0 // indirect
 	golang.org/x/net v0.40.0 // indirect
-	golang.org/x/sync v0.13.0 // indirect
 )
