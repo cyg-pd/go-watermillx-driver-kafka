@@ -6,7 +6,7 @@ require (
 	github.com/IBM/sarama v1.45.2
 	github.com/ThreeDotsLabs/watermill v1.4.6
 	github.com/ThreeDotsLabs/watermill-kafka/v3 v3.0.6
-	github.com/cyg-pd/go-watermillx v0.0.2
+	github.com/cyg-pd/go-watermillx v0.0.3
 	github.com/go-viper/mapstructure/v2 v2.2.1
 )
 
