@@ -4,8 +4,8 @@ github.com/ThreeDotsLabs/watermill v1.4.6 h1:rWoXlxdBgUyg/bZ3OO0pON+nESVd9r6tnLT
 github.com/ThreeDotsLabs/watermill v1.4.6/go.mod h1:lBnrLbxOjeMRgcJbv+UiZr8Ylz8RkJ4m6i/VN/Nk+to=
 github.com/ThreeDotsLabs/watermill-kafka/v3 v3.0.6 h1:xK+VLDjYvBrRZDaFZ7WSqiNmZ9lcDG5RIilFVDZOVyQ=
 github.com/ThreeDotsLabs/watermill-kafka/v3 v3.0.6/go.mod h1:o1GcoF/1CSJ9JSmQzUkULvpZeO635pZe+WWrYNFlJNk=
-github.com/cyg-pd/go-watermillx v0.0.2 h1:leN2Nru+AgjHs8TvWLvj1N01CMDYYJQOfvBYx1S3WSo=
-github.com/cyg-pd/go-watermillx v0.0.2/go.mod h1:GJt/DAX2SiwLC4wT/MJC1u9Oh4HsMB+z9RNstj58Dy8=
+github.com/cyg-pd/go-watermillx v0.0.3 h1:r3AHhLJgBpj7Gq0ez0KLbwShSK0CxMJpWWZMYK8WYtk=
+github.com/cyg-pd/go-watermillx v0.0.3/go.mod h1:kpZM1NqSAWcnLW2D4JrpX8ZV82oNQkzxnYglaTb4ZGQ=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
